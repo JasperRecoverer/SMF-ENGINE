@@ -28,7 +28,7 @@ Whether it's **gaming, daily use, or battery saving** — one tap switches your 
 - **CPU Control** — governor switching (`schedutil`, `performance`, `powersave`) and per-policy (policy0/4/7) min/max frequency pin, including **max-limit lift** and **MediaTek PPM unlock** on the PERFORMANCE path.
 - **GPU Control** — Mali devfreq governor switching + min/max OPP pin (PPM-backed).
 
-![SMF Performance Engine](Screenshot_20260915-154321_KernelSUNext.png)
+![SMF Performance Engine](B1.jpg)
 
 ### 🎛️ TWEAKS — Other Features
 - **TCP Tuning** — `tcp_*` sysctl tweaks for a smoother, more responsive connection.
