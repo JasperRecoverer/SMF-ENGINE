@@ -37,7 +37,7 @@ Whether it's **gaming, daily use, or battery saving** — one tap switches your 
 - **Scheduler Clamp** — `sched_util_clamp_min` raised for snappier responsiveness.
 - **Device-aware** — unsupported features are **auto-hidden** per device (FPS GO / GPU / thermal only appear when your kernel actually exposes them).
 
-![SMF Performance Engine](s2.jpg)
+![SMF Performance Engine](B2.jpg)
 
 ### 🛡️ Safety & Restore
 
